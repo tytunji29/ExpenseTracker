@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\repository\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CAEFA-A516-4AF2-BF54-F9AC53453C2F}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CAEFA-A516-4AF2-BF54-F9AC53453C2F}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\services\\allservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\allservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\dto\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\dto\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\request\\expenserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\request\\expenserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\request\\monthrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\request\\monthrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\models\\request\\incomerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\request\\incomerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\repository\\incomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\incomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|c:\\users\\temitayo oyetunji\\desktop\\fromxlaptop\\bluecore\\expensestracker\\et\\infrastructure\\repository\\monthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72CF692-E2D4-440C-8B83-5DAEB9EDC171}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\monthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllService.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Services\\AllService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AllService.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Services\\AllService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AllService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:26:47.973Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\Program.cs",
+              "RelativeToolTip": "MinimalAPI\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgvz0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:26:36.085Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\ExpenseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:18:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\ExpenseRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Request\\ExpenseRequest.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\ExpenseRequest.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Request\\ExpenseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:08:29.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:51:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Expense.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:50:49.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:10:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Income.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Income.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Income.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:51:06.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Month.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Month.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Month.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Month.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Month.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:34:47.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnObject.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Dto\\ReturnObject.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Dto\\ReturnObject.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Dto\\ReturnObject.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Dto\\ReturnObject.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:48:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Request\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Request\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:07:27.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IncomeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\IncomeRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Request\\IncomeRequest.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\IncomeRequest.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Request\\IncomeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:04:14.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\MonthRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Request\\MonthRequest.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Request\\MonthRequest.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Request\\MonthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:34:33.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Models\\Category.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:07:59.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IncomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\IncomeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\IncomeRepository.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\IncomeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\IncomeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:16:29.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MonthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\MonthRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MonthRepository.cs",
+              "ToolTip": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Repository\\MonthRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\MonthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:41:28.305Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
