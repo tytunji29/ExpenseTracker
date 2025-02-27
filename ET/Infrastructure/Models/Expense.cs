@@ -10,6 +10,7 @@ public class Expense
 
     [Required]
     public string Name { get; set; } = string.Empty;
+    public string Status { get; set; }
 
     [Required]
     [Column(TypeName = "decimal(18,2)")]

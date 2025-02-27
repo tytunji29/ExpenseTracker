@@ -1,6 +1,10 @@
 ﻿
 namespace Infrastructure.Models.Request;
 
+public class ExpenseRequestStatus
+{
+    public string Status { get; set; }
+}
 public class ExpenseRequest
 {
     public string Name { get; set; }

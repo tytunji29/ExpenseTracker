@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\MinimalAPI.csproj": {}
+    "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Temitayo Oyetunji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\MinimalAPI.csproj": {
+    "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\MinimalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\MinimalAPI\\MinimalAPI.csproj",
         "projectName": "MinimalAPI",
-        "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\MinimalAPI.csproj",
+        "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\Temitayo Oyetunji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\obj\\",
+        "outputPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

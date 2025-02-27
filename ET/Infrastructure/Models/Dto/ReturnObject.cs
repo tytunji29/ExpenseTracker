@@ -10,9 +10,16 @@ public class ReturnObject
 public record MonthDto(
     int Id,
     string Name,
-    int Year,
-    List<IncomeDto> Incomes,
-    List<ExpenseDto> Expenses
+string FullMonth,
+    int Year);
+public record BudgetDto(
+int Id,
+string Name,
+int Year,
+List<IncomeDto> Incomes,
+List<ExpenseDto> Expenses,
+decimal TotalIncome,
+decimal TotalExpense
 );
 
 public record CatergoryDto(
@@ -29,7 +36,9 @@ public record IncomeDto(
 public record ExpenseDto(
     int Id,
     string Name,
+    string Status,
     decimal Amount,
     string CategoryName,
-    string MonthName
+    string MonthName,
+    int year
 );

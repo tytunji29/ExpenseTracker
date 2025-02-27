@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wVONPMB+4tM=",
+  "dgSpecHash": "PlX5y1q1RVY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpensesTracker\\ET\\MinimalAPI\\MinimalAPI.csproj",
+  "projectFilePath": "C:\\Users\\Temitayo Oyetunji\\Desktop\\FromXLaptop\\Bluecore\\ExpenseTracker\\ET\\MinimalAPI\\MinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Temitayo Oyetunji\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Temitayo Oyetunji\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

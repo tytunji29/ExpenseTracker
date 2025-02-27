@@ -3,7 +3,8 @@
 public interface IExpenseRepository
 {
     Task<ReturnObject> AddExpense(ExpenseRequest request);
-    Task<ReturnObject> GetAllExpense();
+    Task<ReturnObject> UpdateExpenseStatus(int id, ExpenseRequestStatus request);
+    Task<ReturnObject> GetAllExpense(int pgSize, int pgNumber);
 }
 public class ExpenseRepository : IExpenseRepository
 {
@@ -13,10 +14,17 @@ public class ExpenseRepository : IExpenseRepository
         _contextFactory = contextFactory;
     }
 
-    public async Task<ReturnObject> GetAllExpense()
+    public async Task<ReturnObject> GetAllExpense(int pgSize, int pgNumber)
     {
-        var res = await AllService.GetAllExpenseAsync(_contextFactory);
-        return new ReturnObject { status = true, message = "Record Fund Successfully", data = res };
+        var res = await AllService.GetAllExpenseAsync(_contextFactory, pgSize, pgNumber);
+        return res;
+    }
+    public async Task<ReturnObject> UpdateExpenseStatus(int id, ExpenseRequestStatus request)
+    {
+        var res = await AllService.UpdateExpenseAsync(_contextFactory, id, request);
+        if (res > 0)
+            return new ReturnObject { status = true, message = "Record Updated Successfully", data = res };
+        return new ReturnObject { status = false, message = "An Error Occured", data = null };
     }
     public async Task<ReturnObject> AddExpense(ExpenseRequest request)
     {
